@@ -1,7 +1,11 @@
 {
-  "name": "presentation-tugas",
+  "name": "presentation-presentasi",
   "version": "1.0.0",
   "license": "y",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sondang31/Locktrin.git"
+  },
   "devDependencies": {
     "bespoke": "^1.1.0",
     "bespoke-bullets": "^1.1.0",
