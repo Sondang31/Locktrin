@@ -1,4 +1,4 @@
-= Tugas
+= Hello World
 :uri-bespoke: http://markdalgleish.com/projects/bespoke.js
 :uri-bundler: http://bundler.io
 :uri-generator-bespoke: https://github.com/bespokejs/generator-bespoke
