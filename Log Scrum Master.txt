@@ -1,0 +1,9 @@
+05 Desember 2019/SCRUM MASTER:Sondang Purba
+1. Aunia
+	- menjelaskan kegunaan
+	- fitur
+	- menjelaskan spesifikasi Teknologi
+2. Sondang
+	- menjelaskan Deskripsi
+	- Mengedit
+	- menjelaskan spesifikasi Teknologi
