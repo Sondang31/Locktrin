@@ -2,8 +2,9 @@
 1. Aunia
 	- menjelaskan kegunaan
 	- fitur
-	- menjelaskan spesifikasi Teknologi
+	- menjelaskan kelebihan dan kekurangan
 2. Sondang
 	- menjelaskan Deskripsi
 	- Mengedit
 	- menjelaskan spesifikasi Teknologi
+	- menjelaskan keunggulan lockitron
