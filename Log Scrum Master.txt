@@ -3,6 +3,7 @@
 	- instal bespoke dan git
 	- mendaftar Github
 	- membuat Repository baru. 
+
 05 Desember 2019/SCRUM MASTER:Sondang Purba
 1. Aunia
 	- menjelaskan kegunaan
