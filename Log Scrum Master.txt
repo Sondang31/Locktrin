@@ -37,6 +37,10 @@
 
 1. Sondang Purba
 <<<<<<< HEAD
+	- edit css
+
+=======
+<<<<<<< HEAD
 	
 	- Menambah Kelemahan dan Kelebihan
 	
@@ -59,6 +63,9 @@
 	- Menambah Keunggulan
 3. David Simanjuntak
 	- Menambah Video
+<<<<<<< HEAD
+
+=======
 =======
 	- Menambah Kelemahan dan Kelebihan
 	- edit slide
@@ -68,3 +75,5 @@
 3. Ricky MArtin
 	- nge clone repository ketua
 >>>>>>> 7dfb2f37b7a7e371195e5f967cde4e76d7b45b2e
+>>>>>>> fdb6d98d6a68a537c1ff6de4e6ed54a2515f24be
+>>>>>>> 96969f729c2b32a82a0af7d714009f73eebd4c7a
