@@ -34,6 +34,42 @@
 
 
 09 Desember 2019/SCRUM MASTER: Sondang Purba
+
 1. Sondang Purba
+<<<<<<< HEAD
 	- edit css
 
+=======
+<<<<<<< HEAD
+	
+	- Menambah Kelemahan dan Kelebihan
+	
+	- edit slide
+
+2. Aunialim
+	
+	- Menambah Fitur
+	
+	- Menambah Slide Kegunaan
+
+3. Ricky MArtin
+	
+	- nge clone repository ketua
+
+10 Desember 2019/SCRUM MASTER: David Simanjuntak
+1. Sondang
+	- edit slide
+2. Aunialim
+	- Menambah Keunggulan
+3. David Simanjuntak
+	- Menambah Video
+=======
+	- Menambah Kelemahan dan Kelebihan
+	- edit slide
+2. Aunialim
+	- Menambah Fitur
+	- Menambah Slide Kegunaan
+3. Ricky MArtin
+	- nge clone repository ketua
+>>>>>>> 7dfb2f37b7a7e371195e5f967cde4e76d7b45b2e
+>>>>>>> fdb6d98d6a68a537c1ff6de4e6ed54a2515f24be
