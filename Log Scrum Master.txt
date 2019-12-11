@@ -64,5 +64,6 @@
 1. Sondang Purba
 	- Menambah Css
 	- Edit Slide
+	- Menambah Background
 2. Aunialim
 	- Edit silde
